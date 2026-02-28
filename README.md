@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/xyzvoid/.github/main/profile/banner.svg" alt="xyzvoid" width="100%">
+<img src="https://raw.githubusercontent.com/xyzvoid/.github/main/banner.svg" alt="xyzvoid" width="100%">
 
 <br>
 
